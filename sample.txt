@@ -1,3 +1,15 @@
 Fatima Iqbal
 23-st-026
 cout<<"sum of two numbers"<<a+b<<endl;
+
+
+cout<<"subtaction of two numbers"<<a-b<<endl;
+
+
+cout<<"multiplication of two numbers"<<a*b<<endl;
+
+
+cout<<"division of two numbers"<<a/b<<endl;
+
+
+
