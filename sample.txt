@@ -7,3 +7,9 @@ cout<<"subtaction of two numbers"<<a-b<<endl;
 
 
 cout<<"multiplication of two numbers"<<a*b<<endl;
+
+
+cout<<"division of two numbers"<<a/b<<endl;
+
+
+
